@@ -1,2 +1,2 @@
 # ED_test
-/.DS_Store
+*.DS_Store
